@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![8whyf82wj8f3w98jf39fj9](https://github.com/Azalea-Essentials/.github/assets/122332042/c3dd7d9e-9299-4e81-a5c3-411d30142b26)
+  ![8whyf82wj8f3w98jf39fj9](https://github.com/DevelopmentKinetix/DevelopmentKinetix/blob/main/banner.png)
 
 </div>  
 
-# Azalea Essentials
+# Kinetix Development
 
-Azalea Essentials is a free and open-source addon for minecraft bedrock
+Kinetix Development is a free community to join where you can download addons I make for people to use or get help with coding.
 
 ## Projects
 
-### [Azalea](https://github.com/Azalea-Essentials/Azalea)
+### [Kinetix](https://github.com/DevelopmentKinetix)
 
 The main reason why you are here (hopefully)
 
-### [PrismarineDB](https://github.com/Azalea-Essentials/PrismarineDB)
+### [kinetixDB](https://github.com/DevelopmentKinetix/KinetixDB)
 
-PrismarineDB is a database script for minecraft that uses dynamic properties. It uses a document system like what MongoDB has instead of the normal key-value things that dynamic properties normally do
+kinetixDB is a database script for minecraft that uses dynamic properties. It uses a document system like what MongoDB has instead of the normal key-value things that dynamic properties normally do
